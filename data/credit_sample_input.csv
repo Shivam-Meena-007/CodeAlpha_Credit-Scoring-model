@@ -1,0 +1,6 @@
+income,age,num_loans,credit_history_years,late_payments,debt,monthly_expenses,savings,employment_years,home_owner,married,education_level,debt_to_income
+59934,50,1,21,1,2123,22274,15923,18,0,0,1,0.035
+47234,51,0,22,0,20770,14784,0,18,0,0,1,0.44
+62953,58,0,18,1,19139,26347,3757,22,1,1,1,0.304
+80460,31,0,2,0,15520,55283,16803,10,0,0,1,0.193
+45316,55,3,0,2,24452,19033,5440,20,0,1,1,0.54
